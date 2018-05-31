@@ -1,0 +1,12 @@
+#div1{
+  color:#00f;
+  -webkit-user-select: none;  
+  -moz-user-select: none;  
+  -ms-user-select: none; 
+}
+.img3{
+  width: 300px;
+  height:200px;
+  background:url(/images/b_flight3d23cfb68.jpg) no-repeat;
+  background-size:100% 100%;
+}

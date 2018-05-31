@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Document</title>
+    <script src="./build/js/index.js"></script>
+</head>
+<body style="width: 500px;margin:50px 0 100px;">
+    <br>
+    <a href="./src/test.html">引入文件</a>
+    <pre>注意：这一段代码放到项目目录下的package.json里
+        "scripts": {
+            "test": "echo \"Error: no test specified\" && exit 1",
+            "xuan": "webpack-dev-server --devtool eval-source-map --progress --colors"
+        },
+        输入npm run xuan,可以直接找到文件如果出错时的位置
+    </pre>
+    <div>入口</div>
+    <div class="demo1"></div>
+    <div class="demo2"></div>
+</body>
+</html>
