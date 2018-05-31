@@ -11,7 +11,7 @@ learning to config webpack (Multi pages config)
 You can use any item in your projects by copy the HTML and css of the item you like
 
 ## Usage images
-![](src/img/b_flight1.png)
-![](src/img/b_flight2.png)
-![](src/img/b_flight3.png)
-![](src/img/b_flight4.png)
+![](./src/img/b_flight1.png)
+![](./src/img/b_flight2.png)
+![](./src/img/b_flight3.png)
+![](./src/img/b_flight4.png)
